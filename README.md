@@ -37,6 +37,7 @@ Goal for Week 1: Establish the data foundation (schema) and UI shell (document b
 
 ## Project Structure
 
+```
 SyncDoc/
 ├── syncdoc-backend/
 │   └── models/
@@ -44,9 +45,15 @@ SyncDoc/
 │       └── documentModel.js
 ├── syncdoc-frontend/
 └── README.md
+```
 
 ## Getting Started
+
 Pull the latest from dariha_dev before starting your task to avoid conflicts.
 
-cd syncdoc-backend && npm install
-cd ../syncdoc-frontend && npm install
+```
+cd syncdoc-backend
+npm install
+cd ../syncdoc-frontend
+npm install
+```
