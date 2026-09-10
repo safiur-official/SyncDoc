@@ -31,7 +31,7 @@ Goal for Week 1: Establish the data foundation (schema) and UI shell (document b
 |---|---|---|---|
 | Schema Design | Dariha | dariha_dev | Done |
 | Relationship Hooks | Kesava | — | In progress |
-| Document Browsing UI | chirra praveen | — | In progress |
+| Document Browsing UI | chirra praveen | praveen_Doc | In progress |
 | Block Rendering | putta praveen | praveen/block-rendering | In progress |
 | Integration/Contracts | TBD | — | Open |
 
